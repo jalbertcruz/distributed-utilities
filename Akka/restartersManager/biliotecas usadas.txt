@@ -1,0 +1,14 @@
+
+Akka 2.0.1
+
+akka-kernel-2.0.1
+akka-remote-1.2
+protobuf-java-2.4
+netty-3.2.5.Final
+commons-io-2.0.1
+scala-library
+akka-actor-1.2
+
+gson
+
+gson-2.1

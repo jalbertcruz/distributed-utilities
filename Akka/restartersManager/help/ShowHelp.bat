@@ -1,0 +1,1 @@
+START ./help/Manual.doc

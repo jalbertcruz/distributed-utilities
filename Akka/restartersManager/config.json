@@ -1,0 +1,7 @@
+{
+    "managerPort": 2553,
+    "pcs": [
+            {"port":1552, "IP":"10.13.13.234", "listenName":"restarter", "name":"Comp 1"},
+            {"port":2552, "IP":"10.13.13.234", "listenName":"restarter", "name":"Comp 2"}
+    ]
+}
